@@ -19,7 +19,11 @@ This project consists of a PowerShell script used to monitor and alert certain w
 
 - <b>Windows 11</b> (23H2)
 
-<h2>Program walk-through:</h2>
+<h2>Program Description</h2>
+
+This PowerShell script is designed to monitor and alert on specific Windows Security Event Log entries. It aims to provide real-time monitoring and notification for a set of defined security-related events.
+
+<h2>Program walk-through</h2>
 
 ### Running the script:
 
