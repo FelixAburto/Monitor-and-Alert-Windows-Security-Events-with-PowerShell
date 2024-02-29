@@ -21,8 +21,10 @@ This project consists of a PowerShell script used to monitor and alert certain w
 
 <h2>Program walk-through:</h2>
 
+Running the script:
+
+<br/>
 <p align="center">
-Running the script: <br/>
 <img src="https://i.imgur.com/MWkZET3.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
