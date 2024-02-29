@@ -23,23 +23,23 @@ This project consists of a PowerShell script used to monitor and alert certain w
 
 <p align="center">
 Running the script: <br/>
-<img src="https://i.imgur.com/MWkZET3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MWkZET3.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Output screen when script is running:  <br/>
-<img src="https://i.imgur.com/tIp3Wcr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tIp3Wcr.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Creating a user account to alert on event 4720: <br/>
-<img src="https://i.imgur.com/AtTgOEA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AtTgOEA.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Windows Security Event is displayed on the terminal:  <br/>
-<img src="https://i.imgur.com/22gH6Su.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/22gH6Su.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 After the script detects a security event it will send an email alert:  <br/>
-<img src="https://i.imgur.com/Z1Ss0P5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z1Ss0P5.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
