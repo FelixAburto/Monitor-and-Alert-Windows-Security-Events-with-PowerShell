@@ -21,36 +21,39 @@ This project consists of a PowerShell script used to monitor and alert certain w
 
 <h2>Program walk-through:</h2>
 
-Running the script:
+### Running the script:
 
 <br/>
 <p align="center">
 <img src="https://i.imgur.com/MWkZET3.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Output screen when script is running:  <br/>
+ 
+### Output screen when script is running: 
+<br/>
+<p align="center">
 <img src="https://i.imgur.com/tIp3Wcr.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating a user account to alert on event 4720: <br/>
+
+### Creating a user account to alert on event 4720:
+<br/>
+<p align="center">
 <img src="https://i.imgur.com/AtTgOEA.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Windows Security Event is displayed on the terminal:  <br/>
+
+### Windows Security Event is displayed on the terminal:
+<br/>
+<p align="center">
 <img src="https://i.imgur.com/22gH6Su.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-After the script detects a security event it will send an email alert:  <br/>
+
+### After the script detects a security event it will send an email alert:
+<br/>
+<p align="center">
 <img src="https://i.imgur.com/Z1Ss0P5.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
