@@ -1,11 +1,11 @@
 <h1>Monitor and Alert Windows Security Events with Powershell</h1>
 
 <h2>Description</h2>
-This project consists of a PowerShell script used to monitor and alert certain windows security events such as Event ID: 4720, 4726, 4672, 4732, 4706, 4648, 4657, 4728, 4740, 4756, and 4625. To showcase this I will be demonstrating how the script alerts when a new user account is created on the system.
+This project consists of a PowerShell script used to monitor and alert certain Windows security events such as Event ID: 4720, 4726, 4672, 4732, 4706, 4648, 4657, 4728, 4740, 4756, and 4625. To showcase this, I will be demonstrating how the script alerts when a new user account is created on the system.
 
 <br />***Note: all email addresses displayed in this project are dummy email addresses and will be deleted afterwards*** <br />
 
-<br />***Note: The user has to change the execution policy in order for the script to function properly. They can do this by inputing this command: "Set-ExecutionPolicy RemoteSigned"*** <br />
+<br />***Note: The user has to change the execution policy in order for the script to function properly. They can do this by inputting this command: "Set-ExecutionPolicy RemoteSigned"*** <br />
 
 
 <br />
